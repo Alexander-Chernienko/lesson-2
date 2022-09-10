@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    width: 1402px;
+    height: 595px;
+}
+
+.title {
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 110px; 
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    color: #212121;
+}
+
+.line {
+    width: 64px;
+    height: 2px;
+    border: none;
+    background-color: orange;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    color: #86878B;
+}
+
+div {
+    display: inline-block;
+}
+
+
+
+.frame1 {
+    width: 70px;
+    height: 70px;
+    margin-top: 80px;
+    border-radius: 50%;
+    border: 3px solid orange;
+    margin-left: 283px;
+}
+
+.frame2 {
+    width: 70px;
+    height: 70px;
+    margin-top: 80px;
+    border-radius: 50%;
+    border: 3px solid orange;
+    margin-left: 172px;
+}
+
+.frame3 {
+    width: 70px;
+    height: 70px;
+    margin-top: 80px;
+    border-radius: 50%;
+    border: 3px solid orange;
+    margin-left: 172px;
+}
+
+.lightbulb {
+    width: 19px;
+    height: 28px;
+    padding: 21px 26px;
+}
+
+.keyboard {
+    width: 35px;
+    height: 21px;
+    padding: 24px 17px;
+}
+
+.lightning {
+    width: 17px;
+    height: 31px;
+    padding: 19px 26px;
+}
+
+.h2_1 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    margin-left: 228px;
+    color: #333333;
+}
+
+.description_1 {
+    width: 350px;
+    height: 52px;
+    font-size: 14px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #86878B;
+    margin-left: 143px;
+}
+
+.h2_2 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    color: #333333;
+    margin-left: 146px;
+}
+
+.description_2 {
+    width: 350px;
+    height: 52px;
+    font-size: 14px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #86878B;
+    margin-left: 32px;
+}
+
+.h2_3 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    margin-left: 119px;
+    color: #333333;
+}
+
+.description_3 {
+    width: 350px;
+    height: 52px;
+    font-size: 14px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #86878B;
+    margin-left: 32px;
+}
